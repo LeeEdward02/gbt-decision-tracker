@@ -47,7 +47,7 @@ explainable_trace/
 
 ```bash
 # 克隆项目
-git clone https://github.com/LeeEdward02/Fully-Explainable-Tracking-System-for-Model-Decision-Chains-Based-on-Gradient-Boosting-Trees.git
+git clone https://github.com/LeeEdward02/gbt-decision-tracker.git
 cd explainable_trace
 
 # 安装依赖
